@@ -1,0 +1,3 @@
+# Resumo
+
+Uma diferenciação importante que eu não sabia (vergonhoso): o react separa os "renderizadores" de elementos em diversos tipos. O que usamos na web é o `react-dom` que renderiza itens na web (no DOM do navegador). Mas também existem diversos outros, que não me dei ao trabalho de descobrir os nomes, mas que renderizam interfaces em outras plataformas: terminal, televisão, dispositivos mobile (react native), e assim por diante. Por isso o `react-dom` sempre vem como uma dependênciad os projetos React.
